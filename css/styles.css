@@ -1,6 +1,17 @@
 body {
     background-color: #FFBF9B;
+    
 }
+
+h1 {
+    color: blue;
+}
+
+h3 {
+    color: darkolivegreen;
+}
+
+
 
 hr {
     border-color: gray;
